@@ -1,4 +1,4 @@
-1 Angular5 Training Overview
+1 Angular5 Training Overvie
 1.1 Overview of the Course
 1.2 Objectives of the Course
 1.3 Pre-requisite / Target Audience
