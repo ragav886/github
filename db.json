@@ -1,0 +1,8 @@
+{
+  "profiles": [
+    { "id": 1, "name": "Ragav", "Title": "Angular Developer","Project": "CMI DashBoard" },
+    { "id": 2, "name": "Vijaya", "Title": "Manager","Project": "CMI Admin" },
+    { "id": 3, "name": "Harish", "Title": "Angular Developer","Project": "CMI Authentication" },
+	{ "id": 4, "name": "Rajan", "Title": "Angular Developer","Project": "CMI UI" }
+  ]
+}
